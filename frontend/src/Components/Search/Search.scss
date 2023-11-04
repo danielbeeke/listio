@@ -55,6 +55,8 @@
   .accept {
     margin-top: -1px;
     display: flex;
+    position: sticky;
+    bottom: 0;
     flex-direction: column;
     text-align: center;
     align-items: center;

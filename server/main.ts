@@ -15,8 +15,8 @@ export type SearchProductProps = {
 }
 
 router.get('/search/:category/:searchTerm?', async (context) => {
-  const categoryUrl = atob(context.params.category)
-  const results = await Interspar(categoryUrl, context.params.searchTerm)
+  const categoryId = atob(context.params.category)
+  const results = await Interspar(categoryId, context.params.searchTerm)
 
   context.response.headers.set('Access-Control-Allow-Origin', '*')
   context.response.body = results

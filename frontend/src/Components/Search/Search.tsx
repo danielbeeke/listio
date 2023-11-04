@@ -57,7 +57,11 @@ export function Search({
   useEffect(() => {
     if (!selectedCategory) return
 
-    const encodedCategoryUrl = btoa(selectedCategory.identifier)
+    const categoryId = selectedCategory.identifier
+      .split('/')
+      .filter(Boolean)
+      .pop()!
+    const encodedCategoryUrl = btoa(categoryId)
 
     fetch(`http://localhost:8000/search/${encodedCategoryUrl}/${searchTerm}`)
       .then((response) => response.json())
@@ -125,6 +129,9 @@ export function Search({
           ref={inputRef}
           value={searchTerm}
           type="search"
+          placeholder={
+            selectedCategory ? 'Refine your search' : 'Search for a category'
+          }
           onChange={(event) => setSearchTerm(event.target.value)}
         />
         <Icon icon="material-symbols:search" />
@@ -135,7 +142,6 @@ export function Search({
             <SearchResult
               onClick={(category) => {
                 setSelectedCategory(category)
-                // setSearchResults([])
                 setSearchTerm('')
                 inputRef.current?.focus()
               }}
