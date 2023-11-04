@@ -12,6 +12,7 @@ export type SearchResultProps = {
 export type SearchResultPart = {
   text: string
   identifier: string
+  icon?: string
 }
 
 export function SearchResult({
@@ -26,7 +27,7 @@ export function SearchResult({
     <div className="search-result">
       {reversedParts.map((part) => (
         <div
-          onClick={() => onClick(part)}
+          onClick={() => onClick(Object.assign({}, part, { icon }))}
           className="search-result-part"
           key={JSON.stringify(part)}
         >

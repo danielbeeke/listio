@@ -22,6 +22,10 @@
     }
   }
 
+  .category-icon {
+    margin-right: 0.5rem;
+  }
+
   input {
     border: none;
     outline: none;
@@ -51,10 +55,17 @@
   .accept {
     margin-top: -1px;
     display: flex;
+    flex-direction: column;
+    text-align: center;
     align-items: center;
     justify-content: space-between;
     padding: 1rem;
     border: 1px solid gray;
     background-color: #e7f8ff;
+
+    @media (min-width: 720px) {
+      flex-direction: row;
+      text-align: left;
+    }
   }
 }

@@ -1,0 +1,1942 @@
+[
+  {
+    "label": "Neu im Online Shop",
+    "url": "https://shop.billa.at/kategorie/neu-im-online-shop-14506",
+    "parentUrl": null
+  },
+  {
+    "label": "Äpfel, Birnen & Trauben",
+    "url": "https://shop.billa.at/kategorie/aepfel-birnen-und-trauben-13753",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-13752"
+  },
+  {
+    "label": "Exotisches Obst",
+    "url": "https://shop.billa.at/kategorie/exotisches-obst-13754",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-13752"
+  },
+  {
+    "label": "Steinobst & Beeren",
+    "url": "https://shop.billa.at/kategorie/steinobst-und-beeren-13755",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-13752"
+  },
+  {
+    "label": "Zitrusfrüchte",
+    "url": "https://shop.billa.at/kategorie/zitrusfruechte-13756",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-13752"
+  },
+  {
+    "label": "Obst",
+    "url": "https://shop.billa.at/kategorie/obst-13752",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-und-gemuese-13751"
+  },
+  {
+    "label": "Gartengemüse",
+    "url": "https://shop.billa.at/kategorie/gartengemuese-13758",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-13757"
+  },
+  {
+    "label": "Zwiebel und Kartoffeln",
+    "url": "https://shop.billa.at/kategorie/zwiebel-und-kartoffeln-13759",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-13757"
+  },
+  {
+    "label": "Kräuter",
+    "url": "https://shop.billa.at/kategorie/kraeuter-13760",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-13757"
+  },
+  {
+    "label": "Gemüse",
+    "url": "https://shop.billa.at/kategorie/gemuese-13757",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-und-gemuese-13751"
+  },
+  {
+    "label": "Salate",
+    "url": "https://shop.billa.at/kategorie/salate-13762",
+    "parentUrl": "https://shop.billa.at/kategorie/salate-13761"
+  },
+  {
+    "label": "Salate verpackt",
+    "url": "https://shop.billa.at/kategorie/salate-verpackt-13763",
+    "parentUrl": "https://shop.billa.at/kategorie/salate-13761"
+  },
+  {
+    "label": "Salate",
+    "url": "https://shop.billa.at/kategorie/salate-13761",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-und-gemuese-13751"
+  },
+  {
+    "label": "Trockenfrüchte & Nüsse",
+    "url": "https://shop.billa.at/kategorie/trockenfruechte-und-nuesse-13764",
+    "parentUrl": "https://shop.billa.at/kategorie/obst-und-gemuese-13751"
+  },
+  {
+    "label": "Obst & Gemüse",
+    "url": "https://shop.billa.at/kategorie/obst-und-gemuese-13751",
+    "parentUrl": null
+  },
+  {
+    "label": "Aufbackbrötchen & -baguettes",
+    "url": "https://shop.billa.at/kategorie/aufbackbroetchen-und-baguettes-13768",
+    "parentUrl": "https://shop.billa.at/kategorie/aufbackbroetchen-und-toast-13767"
+  },
+  {
+    "label": "Toastbrot",
+    "url": "https://shop.billa.at/kategorie/toastbrot-13769",
+    "parentUrl": "https://shop.billa.at/kategorie/aufbackbroetchen-und-toast-13767"
+  },
+  {
+    "label": "Aufbackbrötchen & Toast",
+    "url": "https://shop.billa.at/kategorie/aufbackbroetchen-und-toast-13767",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13766"
+  },
+  {
+    "label": "Brot verpackt",
+    "url": "https://shop.billa.at/kategorie/brot-verpackt-13771",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13770"
+  },
+  {
+    "label": "Ofenfrisches Brot",
+    "url": "https://shop.billa.at/kategorie/ofenfrisches-brot-13772",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13770"
+  },
+  {
+    "label": "Ofenfrisches Gebäck",
+    "url": "https://shop.billa.at/kategorie/ofenfrisches-gebaeck-13773",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13770"
+  },
+  {
+    "label": "Brot & Gebäck",
+    "url": "https://shop.billa.at/kategorie/brot-und-gebaeck-13770",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13766"
+  },
+  {
+    "label": "Knäckebrot & Zwieback",
+    "url": "https://shop.billa.at/kategorie/knaeckebrot-und-zwieback-13774",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13766"
+  },
+  {
+    "label": "Plunder & Strudel",
+    "url": "https://shop.billa.at/kategorie/plunder-und-strudel-13776",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-13775"
+  },
+  {
+    "label": "Kuchen, Strudel & Rouladen",
+    "url": "https://shop.billa.at/kategorie/kuchen-strudel-und-rouladen-13778",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-13775"
+  },
+  {
+    "label": "Striezel, Brioche & Croissants",
+    "url": "https://shop.billa.at/kategorie/striezel-brioche-und-croissants-13779",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-13775"
+  },
+  {
+    "label": "Golatschen, Muffins & Co.",
+    "url": "https://shop.billa.at/kategorie/golatschen-muffins-und-co-13780",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-13775"
+  },
+  {
+    "label": "Krapfen & Brandteiggebäck",
+    "url": "https://shop.billa.at/kategorie/krapfen-und-brandteiggebaeck-13781",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-13775"
+  },
+  {
+    "label": "Kuchen & Co.",
+    "url": "https://shop.billa.at/kategorie/kuchen-und-co-13775",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13766"
+  },
+  {
+    "label": "Semmelwürfel & Brösel",
+    "url": "https://shop.billa.at/kategorie/semmelwuerfel-und-broesel-13783",
+    "parentUrl": "https://shop.billa.at/kategorie/brot-und-gebaeck-13766"
+  },
+  {
+    "label": "Brot & Gebäck",
+    "url": "https://shop.billa.at/kategorie/brot-und-gebaeck-13766",
+    "parentUrl": null
+  },
+  {
+    "label": "Eiskaffee",
+    "url": "https://shop.billa.at/kategorie/eiskaffee-13786",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Eistee",
+    "url": "https://shop.billa.at/kategorie/eistee-13787",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Energydrinks",
+    "url": "https://shop.billa.at/kategorie/energydrinks-13788",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Frucht- & Gemüsesäfte",
+    "url": "https://shop.billa.at/kategorie/frucht-und-gemuesesaefte-13789",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Kindergetränke",
+    "url": "https://shop.billa.at/kategorie/kindergetraenke-13790",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Limonaden",
+    "url": "https://shop.billa.at/kategorie/limonaden-13791",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Mineralwasser",
+    "url": "https://shop.billa.at/kategorie/mineralwasser-13792",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Mineralwasser mit Geschmack",
+    "url": "https://shop.billa.at/kategorie/mineralwasser-mit-geschmack-13793",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Sirupe",
+    "url": "https://shop.billa.at/kategorie/sirupe-13794",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Smoothies & Fresh Juice",
+    "url": "https://shop.billa.at/kategorie/smoothies-und-fresh-juice-13795",
+    "parentUrl": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785"
+  },
+  {
+    "label": "Alkoholfreie Getränke",
+    "url": "https://shop.billa.at/kategorie/alkoholfreie-getraenke-13785",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "Alkoholfreies Bier",
+    "url": "https://shop.billa.at/kategorie/alkoholfreies-bier-13797",
+    "parentUrl": "https://shop.billa.at/kategorie/bier-und-radler-13796"
+  },
+  {
+    "label": "Dosenbier",
+    "url": "https://shop.billa.at/kategorie/dosenbier-13798",
+    "parentUrl": "https://shop.billa.at/kategorie/bier-und-radler-13796"
+  },
+  {
+    "label": "Flaschenbier",
+    "url": "https://shop.billa.at/kategorie/flaschenbier-13799",
+    "parentUrl": "https://shop.billa.at/kategorie/bier-und-radler-13796"
+  },
+  {
+    "label": "Radler",
+    "url": "https://shop.billa.at/kategorie/radler-13800",
+    "parentUrl": "https://shop.billa.at/kategorie/bier-und-radler-13796"
+  },
+  {
+    "label": "Cider",
+    "url": "https://shop.billa.at/kategorie/cider-14532",
+    "parentUrl": "https://shop.billa.at/kategorie/bier-und-radler-13796"
+  },
+  {
+    "label": "Bier & Radler",
+    "url": "https://shop.billa.at/kategorie/bier-und-radler-13796",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "Ganze Bohne",
+    "url": "https://shop.billa.at/kategorie/ganze-bohne-13803",
+    "parentUrl": "https://shop.billa.at/kategorie/kaffee-13802"
+  },
+  {
+    "label": "Gemahlen",
+    "url": "https://shop.billa.at/kategorie/gemahlen-13804",
+    "parentUrl": "https://shop.billa.at/kategorie/kaffee-13802"
+  },
+  {
+    "label": "Kaffee",
+    "url": "https://shop.billa.at/kategorie/kaffee-13802",
+    "parentUrl": "https://shop.billa.at/kategorie/kaffee-tee-und-co-13801"
+  },
+  {
+    "label": "Kakao",
+    "url": "https://shop.billa.at/kategorie/kakao-13809",
+    "parentUrl": "https://shop.billa.at/kategorie/kaffee-tee-und-co-13801"
+  },
+  {
+    "label": "Tee",
+    "url": "https://shop.billa.at/kategorie/tee-13810",
+    "parentUrl": "https://shop.billa.at/kategorie/kaffee-tee-und-co-13801"
+  },
+  {
+    "label": "Kaffee, Tee & Co.",
+    "url": "https://shop.billa.at/kategorie/kaffee-tee-und-co-13801",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "Champagner",
+    "url": "https://shop.billa.at/kategorie/champagner-13821",
+    "parentUrl": "https://shop.billa.at/kategorie/sekt-und-champagner-13820"
+  },
+  {
+    "label": "Prosecco & Frizzante",
+    "url": "https://shop.billa.at/kategorie/prosecco-und-frizzante-13822",
+    "parentUrl": "https://shop.billa.at/kategorie/sekt-und-champagner-13820"
+  },
+  {
+    "label": "Sekt",
+    "url": "https://shop.billa.at/kategorie/sekt-13823",
+    "parentUrl": "https://shop.billa.at/kategorie/sekt-und-champagner-13820"
+  },
+  {
+    "label": "Sekt & Champagner",
+    "url": "https://shop.billa.at/kategorie/sekt-und-champagner-13820",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "Schnaps & Likör",
+    "url": "https://shop.billa.at/kategorie/schnaps-und-likoer-13825",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Gin",
+    "url": "https://shop.billa.at/kategorie/gin-13826",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Aperitif & Digestif",
+    "url": "https://shop.billa.at/kategorie/aperitif-und-digestif-13827",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Cognac & Whiskey",
+    "url": "https://shop.billa.at/kategorie/cognac-und-whiskey-13828",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Vodka",
+    "url": "https://shop.billa.at/kategorie/vodka-13829",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Rum",
+    "url": "https://shop.billa.at/kategorie/rum-13830",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Alkopops",
+    "url": "https://shop.billa.at/kategorie/alkopops-13831",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Tequila",
+    "url": "https://shop.billa.at/kategorie/tequila-13832",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Alkoholfreie Spirituosen",
+    "url": "https://shop.billa.at/kategorie/alkoholfreie-spirituosen-14533",
+    "parentUrl": "https://shop.billa.at/kategorie/spirituosen-13824"
+  },
+  {
+    "label": "Spirituosen",
+    "url": "https://shop.billa.at/kategorie/spirituosen-13824",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "Weißwein",
+    "url": "https://shop.billa.at/kategorie/weisswein-13834",
+    "parentUrl": "https://shop.billa.at/kategorie/wein-13833"
+  },
+  {
+    "label": "Rotwein & Rose",
+    "url": "https://shop.billa.at/kategorie/rotwein-und-rose-13835",
+    "parentUrl": "https://shop.billa.at/kategorie/wein-13833"
+  },
+  {
+    "label": "Dessertwein",
+    "url": "https://shop.billa.at/kategorie/dessertwein-13836",
+    "parentUrl": "https://shop.billa.at/kategorie/wein-13833"
+  },
+  {
+    "label": "Wein",
+    "url": "https://shop.billa.at/kategorie/wein-13833",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "still",
+    "url": "https://shop.billa.at/kategorie/still-13838",
+    "parentUrl": "https://shop.billa.at/kategorie/mineralwasser-13837"
+  },
+  {
+    "label": "mild",
+    "url": "https://shop.billa.at/kategorie/mild-13839",
+    "parentUrl": "https://shop.billa.at/kategorie/mineralwasser-13837"
+  },
+  {
+    "label": "prickelnd",
+    "url": "https://shop.billa.at/kategorie/prickelnd-13840",
+    "parentUrl": "https://shop.billa.at/kategorie/mineralwasser-13837"
+  },
+  {
+    "label": "Mineralwasser",
+    "url": "https://shop.billa.at/kategorie/mineralwasser-13837",
+    "parentUrl": "https://shop.billa.at/kategorie/getraenke-13784"
+  },
+  {
+    "label": "Getränke",
+    "url": "https://shop.billa.at/kategorie/getraenke-13784",
+    "parentUrl": null
+  },
+  {
+    "label": "Menüschalen",
+    "url": "https://shop.billa.at/kategorie/menueschalen-13843",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13842"
+  },
+  {
+    "label": "Salate",
+    "url": "https://shop.billa.at/kategorie/salate-13844",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13842"
+  },
+  {
+    "label": "Süßes",
+    "url": "https://shop.billa.at/kategorie/suesses-13845",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13842"
+  },
+  {
+    "label": "Teigwaren & Beilagen",
+    "url": "https://shop.billa.at/kategorie/teigwaren-und-beilagen-13846",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13842"
+  },
+  {
+    "label": "Burger",
+    "url": "https://shop.billa.at/kategorie/burger-13847",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13842"
+  },
+  {
+    "label": "Fertiggerichte",
+    "url": "https://shop.billa.at/kategorie/fertiggerichte-13842",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Eier",
+    "url": "https://shop.billa.at/kategorie/eier-13848",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Fisch",
+    "url": "https://shop.billa.at/kategorie/fisch-13850",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-13849"
+  },
+  {
+    "label": "Huhn & Truthahn",
+    "url": "https://shop.billa.at/kategorie/huhn-und-truthahn-13851",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-13849"
+  },
+  {
+    "label": "Lamm",
+    "url": "https://shop.billa.at/kategorie/lamm-13852",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-13849"
+  },
+  {
+    "label": "Schweinefleisch",
+    "url": "https://shop.billa.at/kategorie/schweinefleisch-13853",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-13849"
+  },
+  {
+    "label": "Rindfleisch",
+    "url": "https://shop.billa.at/kategorie/rindfleisch-13854",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-13849"
+  },
+  {
+    "label": "Fleisch",
+    "url": "https://shop.billa.at/kategorie/fleisch-13849",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Aufstriche & Salate",
+    "url": "https://shop.billa.at/kategorie/aufstriche-und-salate-13856",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Aus der Feinkost",
+    "url": "https://shop.billa.at/kategorie/aus-der-feinkost-13859",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Feta & Mozzarella",
+    "url": "https://shop.billa.at/kategorie/feta-und-mozzarella-13862",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Hart- & Weichkäse am Stück",
+    "url": "https://shop.billa.at/kategorie/hart-und-weichkaese-am-stueck-13863",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Hüttenkäse & Frischkäse",
+    "url": "https://shop.billa.at/kategorie/huettenkaese-und-frischkaese-13864",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Käsespezialitäten",
+    "url": "https://shop.billa.at/kategorie/kaesespezialitaeten-13865",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Parmesan & Reibkäse",
+    "url": "https://shop.billa.at/kategorie/parmesan-und-reibkaese-13866",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Schmelzkäse",
+    "url": "https://shop.billa.at/kategorie/schmelzkaese-13867",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Schnittkäse",
+    "url": "https://shop.billa.at/kategorie/schnittkaese-13868",
+    "parentUrl": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855"
+  },
+  {
+    "label": "Käse, Aufstriche & Salate",
+    "url": "https://shop.billa.at/kategorie/kaese-aufstriche-und-salate-13855",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Butter",
+    "url": "https://shop.billa.at/kategorie/butter-13870",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Haltbarmilch & Kondensmilch",
+    "url": "https://shop.billa.at/kategorie/haltbarmilch-und-kondensmilch-13871",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Joghurt",
+    "url": "https://shop.billa.at/kategorie/joghurt-13872",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Margarine & Fette",
+    "url": "https://shop.billa.at/kategorie/margarine-und-fette-13874",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Milch",
+    "url": "https://shop.billa.at/kategorie/milch-13875",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Milchgetränke",
+    "url": "https://shop.billa.at/kategorie/milchgetraenke-13876",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Milchsnacks",
+    "url": "https://shop.billa.at/kategorie/milchsnacks-13882",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Pudding & Desserts",
+    "url": "https://shop.billa.at/kategorie/pudding-und-desserts-13883",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Rahm, Obers & Topfen",
+    "url": "https://shop.billa.at/kategorie/rahm-obers-und-topfen-13884",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Sprühsahne & Kaffeeobers",
+    "url": "https://shop.billa.at/kategorie/spruehsahne-und-kaffeeobers-13885",
+    "parentUrl": "https://shop.billa.at/kategorie/milchprodukte-13869"
+  },
+  {
+    "label": "Milchprodukte",
+    "url": "https://shop.billa.at/kategorie/milchprodukte-13869",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Belegte Brötchen",
+    "url": "https://shop.billa.at/kategorie/belegte-broetchen-13887",
+    "parentUrl": "https://shop.billa.at/kategorie/feinkostplatten-und-broetchen-13886"
+  },
+  {
+    "label": "Aufschnittplatten",
+    "url": "https://shop.billa.at/kategorie/aufschnittplatten-13888",
+    "parentUrl": "https://shop.billa.at/kategorie/feinkostplatten-und-broetchen-13886"
+  },
+  {
+    "label": "Feinkostplatten & Brötchen",
+    "url": "https://shop.billa.at/kategorie/feinkostplatten-und-broetchen-13886",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Blätterteig, Strudelteig",
+    "url": "https://shop.billa.at/kategorie/blaetterteig-strudelteig-13890",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Aus der Feinkost",
+    "url": "https://shop.billa.at/kategorie/aus-der-feinkost-13892",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Salami",
+    "url": "https://shop.billa.at/kategorie/salami-13897",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Grammeln, Schmalz & Speck",
+    "url": "https://shop.billa.at/kategorie/grammeln-schmalz-und-speck-13898",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Schinken",
+    "url": "https://shop.billa.at/kategorie/schinken-13899",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Wurstspezialitäten",
+    "url": "https://shop.billa.at/kategorie/wurstspezialitaeten-13900",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Streichwurst & Pasteten",
+    "url": "https://shop.billa.at/kategorie/streichwurst-und-pasteten-13901",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Truthahn und Putenwurst",
+    "url": "https://shop.billa.at/kategorie/truthahn-und-putenwurst-13902",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Wurst & Stangenwurst",
+    "url": "https://shop.billa.at/kategorie/wurst-und-stangenwurst-13903",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Würstel",
+    "url": "https://shop.billa.at/kategorie/wuerstel-13904",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Cabanossi",
+    "url": "https://shop.billa.at/kategorie/cabanossi-13905",
+    "parentUrl": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891"
+  },
+  {
+    "label": "Wurst, Schinken & Speck",
+    "url": "https://shop.billa.at/kategorie/wurst-schinken-und-speck-13891",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Käse",
+    "url": "https://shop.billa.at/kategorie/kaese-13907",
+    "parentUrl": "https://shop.billa.at/kategorie/feinkost-13906"
+  },
+  {
+    "label": "Wurst",
+    "url": "https://shop.billa.at/kategorie/wurst-13908",
+    "parentUrl": "https://shop.billa.at/kategorie/feinkost-13906"
+  },
+  {
+    "label": "Salate, Aufstriche",
+    "url": "https://shop.billa.at/kategorie/salate-aufstriche-13909",
+    "parentUrl": "https://shop.billa.at/kategorie/feinkost-13906"
+  },
+  {
+    "label": "Feinkost",
+    "url": "https://shop.billa.at/kategorie/feinkost-13906",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Fisch",
+    "url": "https://shop.billa.at/kategorie/fisch-13910",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Vegane Artikel",
+    "url": "https://shop.billa.at/kategorie/vegane-artikel-14528",
+    "parentUrl": "https://shop.billa.at/kategorie/vegan-13911"
+  },
+  {
+    "label": "Vegan",
+    "url": "https://shop.billa.at/kategorie/vegan-13911",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Tofu",
+    "url": "https://shop.billa.at/kategorie/tofu-14529",
+    "parentUrl": "https://shop.billa.at/kategorie/kuehlwaren-13841"
+  },
+  {
+    "label": "Kühlwaren",
+    "url": "https://shop.billa.at/kategorie/kuehlwaren-13841",
+    "parentUrl": null
+  },
+  {
+    "label": "Fleischgerichte",
+    "url": "https://shop.billa.at/kategorie/fleischgerichte-14549",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-und-gefluegel-13921"
+  },
+  {
+    "label": "Geflügelgerichte",
+    "url": "https://shop.billa.at/kategorie/gefluegelgerichte-14550",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-und-gefluegel-13921"
+  },
+  {
+    "label": "Chicken Wings & Nuggets",
+    "url": "https://shop.billa.at/kategorie/chicken-wings-und-nuggets-14551",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-und-gefluegel-13921"
+  },
+  {
+    "label": "Gans, Ente & Truthahn",
+    "url": "https://shop.billa.at/kategorie/gans-ente-und-truthahn-14552",
+    "parentUrl": "https://shop.billa.at/kategorie/fleisch-und-gefluegel-13921"
+  },
+  {
+    "label": "Fleisch & Geflügel",
+    "url": "https://shop.billa.at/kategorie/fleisch-und-gefluegel-13921",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Fisch natur",
+    "url": "https://shop.billa.at/kategorie/fisch-natur-13931",
+    "parentUrl": "https://shop.billa.at/kategorie/fisch-und-meeresfruechte-13930"
+  },
+  {
+    "label": "Fisch paniert & gewürzt",
+    "url": "https://shop.billa.at/kategorie/fisch-paniert-und-gewuerzt-13932",
+    "parentUrl": "https://shop.billa.at/kategorie/fisch-und-meeresfruechte-13930"
+  },
+  {
+    "label": "Fischstäbchen",
+    "url": "https://shop.billa.at/kategorie/fischstaebchen-14553",
+    "parentUrl": "https://shop.billa.at/kategorie/fisch-und-meeresfruechte-13930"
+  },
+  {
+    "label": "Garnelen & Meeresfrüchte",
+    "url": "https://shop.billa.at/kategorie/garnelen-und-meeresfruechte-13933",
+    "parentUrl": "https://shop.billa.at/kategorie/fisch-und-meeresfruechte-13930"
+  },
+  {
+    "label": "Fisch & Meeresfrüchte",
+    "url": "https://shop.billa.at/kategorie/fisch-und-meeresfruechte-13930",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Pizza",
+    "url": "https://shop.billa.at/kategorie/pizza-13938",
+    "parentUrl": "https://shop.billa.at/kategorie/pizza-baguette-und-gebaeck-13936"
+  },
+  {
+    "label": "Tiefkühl Baguette",
+    "url": "https://shop.billa.at/kategorie/tiefkuehl-baguette-13937",
+    "parentUrl": "https://shop.billa.at/kategorie/pizza-baguette-und-gebaeck-13936"
+  },
+  {
+    "label": "Tiefgekühlte Teige & Gebäck",
+    "url": "https://shop.billa.at/kategorie/tiefgekuehlte-teige-und-gebaeck-14554",
+    "parentUrl": "https://shop.billa.at/kategorie/pizza-baguette-und-gebaeck-13936"
+  },
+  {
+    "label": "Pizza, Baguette & Gebäck",
+    "url": "https://shop.billa.at/kategorie/pizza-baguette-und-gebaeck-13936",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Pommes Frites",
+    "url": "https://shop.billa.at/kategorie/pommes-frites-14555",
+    "parentUrl": "https://shop.billa.at/kategorie/pommes-frites-und-mehr-13935"
+  },
+  {
+    "label": "Kartoffelspezialitäten",
+    "url": "https://shop.billa.at/kategorie/kartoffelspezialitaeten-14556",
+    "parentUrl": "https://shop.billa.at/kategorie/pommes-frites-und-mehr-13935"
+  },
+  {
+    "label": "Pommes Frites & mehr",
+    "url": "https://shop.billa.at/kategorie/pommes-frites-und-mehr-13935",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Knödel & Beilagen",
+    "url": "https://shop.billa.at/kategorie/knoedel-und-beilagen-13923",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehlgerichte-13922"
+  },
+  {
+    "label": "Schmankerl & Hausamannskost",
+    "url": "https://shop.billa.at/kategorie/schmankerl-und-hausamannskost-13924",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehlgerichte-13922"
+  },
+  {
+    "label": "Internationale Küche",
+    "url": "https://shop.billa.at/kategorie/internationale-kueche-13925",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehlgerichte-13922"
+  },
+  {
+    "label": "Spezialitäten",
+    "url": "https://shop.billa.at/kategorie/spezialitaeten-13926",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehlgerichte-13922"
+  },
+  {
+    "label": "Tiefkühlgerichte",
+    "url": "https://shop.billa.at/kategorie/tiefkuehlgerichte-13922",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Tiefkühl Gemüse & Pilze",
+    "url": "https://shop.billa.at/kategorie/tiefkuehl-gemuese-und-pilze-14557",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-kraeuter-und-obst-13934"
+  },
+  {
+    "label": "Spinat",
+    "url": "https://shop.billa.at/kategorie/spinat-14558",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-kraeuter-und-obst-13934"
+  },
+  {
+    "label": "Erbsen",
+    "url": "https://shop.billa.at/kategorie/erbsen-14559",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-kraeuter-und-obst-13934"
+  },
+  {
+    "label": "Kräuter",
+    "url": "https://shop.billa.at/kategorie/kraeuter-14560",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-kraeuter-und-obst-13934"
+  },
+  {
+    "label": "Tiefgekühlte Beeren & Früchte",
+    "url": "https://shop.billa.at/kategorie/tiefgekuehlte-beeren-und-fruechte-14561",
+    "parentUrl": "https://shop.billa.at/kategorie/gemuese-kraeuter-und-obst-13934"
+  },
+  {
+    "label": "Gemüse, Kräuter & Obst",
+    "url": "https://shop.billa.at/kategorie/gemuese-kraeuter-und-obst-13934",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Eisbecher",
+    "url": "https://shop.billa.at/kategorie/eisbecher-13918",
+    "parentUrl": "https://shop.billa.at/kategorie/eis-13917"
+  },
+  {
+    "label": "Eis am Stiel & Stanitzel",
+    "url": "https://shop.billa.at/kategorie/eis-am-stiel-und-stanitzel-13919",
+    "parentUrl": "https://shop.billa.at/kategorie/eis-13917"
+  },
+  {
+    "label": "Eis",
+    "url": "https://shop.billa.at/kategorie/eis-13917",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Tiefgekühlte Süßspeisen",
+    "url": "https://shop.billa.at/kategorie/tiefgekuehlte-suessspeisen-13940",
+    "parentUrl": "https://shop.billa.at/kategorie/suessspeisen-und-torten-13939"
+  },
+  {
+    "label": "Tiefgekühlte Torten, Schnitten & Kuchen",
+    "url": "https://shop.billa.at/kategorie/tiefgekuehlte-torten-schnitten-und-kuchen-13941",
+    "parentUrl": "https://shop.billa.at/kategorie/suessspeisen-und-torten-13939"
+  },
+  {
+    "label": "Süßspeisen & Torten",
+    "url": "https://shop.billa.at/kategorie/suessspeisen-und-torten-13939",
+    "parentUrl": "https://shop.billa.at/kategorie/tiefkuehl-13916"
+  },
+  {
+    "label": "Tiefkühl",
+    "url": "https://shop.billa.at/kategorie/tiefkuehl-13916",
+    "parentUrl": null
+  },
+  {
+    "label": "Asia Produkte",
+    "url": "https://shop.billa.at/kategorie/asia-produkte-13945",
+    "parentUrl": "https://shop.billa.at/kategorie/asia-und-mexican-produkte-13944"
+  },
+  {
+    "label": "India & Mexican Produkte",
+    "url": "https://shop.billa.at/kategorie/india-und-mexican-produkte-13946",
+    "parentUrl": "https://shop.billa.at/kategorie/asia-und-mexican-produkte-13944"
+  },
+  {
+    "label": "Asia & Mexican Produkte",
+    "url": "https://shop.billa.at/kategorie/asia-und-mexican-produkte-13944",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Babynahrung im Glas",
+    "url": "https://shop.billa.at/kategorie/babynahrung-im-glas-13948",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-13947"
+  },
+  {
+    "label": "Milchpulver & Milch",
+    "url": "https://shop.billa.at/kategorie/milchpulver-und-milch-13949",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-13947"
+  },
+  {
+    "label": "Kleine Snacks",
+    "url": "https://shop.billa.at/kategorie/kleine-snacks-13950",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-13947"
+  },
+  {
+    "label": "Milch- & Getreidebreie",
+    "url": "https://shop.billa.at/kategorie/milch-und-getreidebreie-13951",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-13947"
+  },
+  {
+    "label": "Getränke & Tees",
+    "url": "https://shop.billa.at/kategorie/getraenke-und-tees-13952",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-13947"
+  },
+  {
+    "label": "Baby",
+    "url": "https://shop.billa.at/kategorie/baby-13947",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Essig",
+    "url": "https://shop.billa.at/kategorie/essig-13967",
+    "parentUrl": "https://shop.billa.at/kategorie/essig-und-oel-13966"
+  },
+  {
+    "label": "Öl",
+    "url": "https://shop.billa.at/kategorie/oel-13968",
+    "parentUrl": "https://shop.billa.at/kategorie/essig-und-oel-13966"
+  },
+  {
+    "label": "Essig & Öl",
+    "url": "https://shop.billa.at/kategorie/essig-und-oel-13966",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Asia",
+    "url": "https://shop.billa.at/kategorie/asia-13970",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Beutelsuppen",
+    "url": "https://shop.billa.at/kategorie/beutelsuppen-13971",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Suppenwürfel",
+    "url": "https://shop.billa.at/kategorie/suppenwuerfel-13972",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Gekühlte Suppen",
+    "url": "https://shop.billa.at/kategorie/gekuehlte-suppen-13973",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Dosensuppen",
+    "url": "https://shop.billa.at/kategorie/dosensuppen-13974",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Menüs & Dosengerichte",
+    "url": "https://shop.billa.at/kategorie/menues-und-dosengerichte-13975",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Pasta & Risotto",
+    "url": "https://shop.billa.at/kategorie/pasta-und-risotto-13976",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Salate",
+    "url": "https://shop.billa.at/kategorie/salate-13977",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Suppeneinlagen",
+    "url": "https://shop.billa.at/kategorie/suppeneinlagen-13978",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Süßes",
+    "url": "https://shop.billa.at/kategorie/suesses-13979",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Teigwaren & Beilagen",
+    "url": "https://shop.billa.at/kategorie/teigwaren-und-beilagen-13980",
+    "parentUrl": "https://shop.billa.at/kategorie/fertiggerichte-13969"
+  },
+  {
+    "label": "Fertiggerichte",
+    "url": "https://shop.billa.at/kategorie/fertiggerichte-13969",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Gewürze",
+    "url": "https://shop.billa.at/kategorie/gewuerze-13982",
+    "parentUrl": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981"
+  },
+  {
+    "label": "Gewürzgläser & -Packungen",
+    "url": "https://shop.billa.at/kategorie/gewuerzglaeser-und-packungen-13983",
+    "parentUrl": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981"
+  },
+  {
+    "label": "Gewürzmischungen",
+    "url": "https://shop.billa.at/kategorie/gewuerzmischungen-13984",
+    "parentUrl": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981"
+  },
+  {
+    "label": "Gewürzmühlen",
+    "url": "https://shop.billa.at/kategorie/gewuerzmuehlen-13985",
+    "parentUrl": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981"
+  },
+  {
+    "label": "Salz",
+    "url": "https://shop.billa.at/kategorie/salz-13986",
+    "parentUrl": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981"
+  },
+  {
+    "label": "Süßes & Backen",
+    "url": "https://shop.billa.at/kategorie/suesses-und-backen-13987",
+    "parentUrl": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981"
+  },
+  {
+    "label": "Gewürze & Würzmittel",
+    "url": "https://shop.billa.at/kategorie/gewuerze-und-wuerzmittel-13981",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Honig",
+    "url": "https://shop.billa.at/kategorie/honig-13989",
+    "parentUrl": "https://shop.billa.at/kategorie/honig-marmelade-und-co-13988"
+  },
+  {
+    "label": "Marmeladen & Konfitüren",
+    "url": "https://shop.billa.at/kategorie/marmeladen-und-konfitueren-13990",
+    "parentUrl": "https://shop.billa.at/kategorie/honig-marmelade-und-co-13988"
+  },
+  {
+    "label": "Süße Aufstriche",
+    "url": "https://shop.billa.at/kategorie/suesse-aufstriche-13991",
+    "parentUrl": "https://shop.billa.at/kategorie/honig-marmelade-und-co-13988"
+  },
+  {
+    "label": "Honig, Marmelade & Co.",
+    "url": "https://shop.billa.at/kategorie/honig-marmelade-und-co-13988",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Aufstriche",
+    "url": "https://shop.billa.at/kategorie/aufstriche-13993",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Fischkonserven",
+    "url": "https://shop.billa.at/kategorie/fischkonserven-13994",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Hülsenfrüchte",
+    "url": "https://shop.billa.at/kategorie/huelsenfruechte-13995",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Obst & Kompotte",
+    "url": "https://shop.billa.at/kategorie/obst-und-kompotte-13996",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Sauerkraut",
+    "url": "https://shop.billa.at/kategorie/sauerkraut-13997",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Sauerwaren",
+    "url": "https://shop.billa.at/kategorie/sauerwaren-13998",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Tomatenprodukte",
+    "url": "https://shop.billa.at/kategorie/tomatenprodukte-14005",
+    "parentUrl": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992"
+  },
+  {
+    "label": "Konserven & Sauerwaren",
+    "url": "https://shop.billa.at/kategorie/konserven-und-sauerwaren-13992",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Frischer Plunder & Strudel",
+    "url": "https://shop.billa.at/kategorie/frischer-plunder-und-strudel-14007",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-14006"
+  },
+  {
+    "label": "Frischer Kuchen",
+    "url": "https://shop.billa.at/kategorie/frischer-kuchen-14008",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-14006"
+  },
+  {
+    "label": "Kuchen, Strudel & Rouladen",
+    "url": "https://shop.billa.at/kategorie/kuchen-strudel-und-rouladen-14009",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-14006"
+  },
+  {
+    "label": "Striezel, Brioche & Croissants",
+    "url": "https://shop.billa.at/kategorie/striezel-brioche-und-croissants-14010",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-14006"
+  },
+  {
+    "label": "Golatschen, Muffins & Co.",
+    "url": "https://shop.billa.at/kategorie/golatschen-muffins-und-co-14011",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-14006"
+  },
+  {
+    "label": "Krapfen & Brandteiggebäck",
+    "url": "https://shop.billa.at/kategorie/krapfen-und-brandteiggebaeck-14012",
+    "parentUrl": "https://shop.billa.at/kategorie/kuchen-und-co-14006"
+  },
+  {
+    "label": "Kuchen & Co.",
+    "url": "https://shop.billa.at/kategorie/kuchen-und-co-14006",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Brotbackmischungen",
+    "url": "https://shop.billa.at/kategorie/brotbackmischungen-14015",
+    "parentUrl": "https://shop.billa.at/kategorie/mehl-und-getreideprodukte-14014"
+  },
+  {
+    "label": "Getreideprodukte",
+    "url": "https://shop.billa.at/kategorie/getreideprodukte-14016",
+    "parentUrl": "https://shop.billa.at/kategorie/mehl-und-getreideprodukte-14014"
+  },
+  {
+    "label": "Mehl",
+    "url": "https://shop.billa.at/kategorie/mehl-14017",
+    "parentUrl": "https://shop.billa.at/kategorie/mehl-und-getreideprodukte-14014"
+  },
+  {
+    "label": "Mehl & Getreideprodukte",
+    "url": "https://shop.billa.at/kategorie/mehl-und-getreideprodukte-14014",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Cerealien",
+    "url": "https://shop.billa.at/kategorie/cerealien-14019",
+    "parentUrl": "https://shop.billa.at/kategorie/muesli-und-cerealien-14018"
+  },
+  {
+    "label": "Müsli",
+    "url": "https://shop.billa.at/kategorie/muesli-14020",
+    "parentUrl": "https://shop.billa.at/kategorie/muesli-und-cerealien-14018"
+  },
+  {
+    "label": "Müsliriegel",
+    "url": "https://shop.billa.at/kategorie/muesliriegel-14021",
+    "parentUrl": "https://shop.billa.at/kategorie/muesli-und-cerealien-14018"
+  },
+  {
+    "label": "Müsli & Cerealien",
+    "url": "https://shop.billa.at/kategorie/muesli-und-cerealien-14018",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Reis",
+    "url": "https://shop.billa.at/kategorie/reis-14023",
+    "parentUrl": "https://shop.billa.at/kategorie/reis-teigwaren-und-sugo-14022"
+  },
+  {
+    "label": "Sugo & Pesto",
+    "url": "https://shop.billa.at/kategorie/sugo-und-pesto-14024",
+    "parentUrl": "https://shop.billa.at/kategorie/reis-teigwaren-und-sugo-14022"
+  },
+  {
+    "label": "Teigwaren",
+    "url": "https://shop.billa.at/kategorie/teigwaren-14025",
+    "parentUrl": "https://shop.billa.at/kategorie/reis-teigwaren-und-sugo-14022"
+  },
+  {
+    "label": "Suppeneinlagen",
+    "url": "https://shop.billa.at/kategorie/suppeneinlagen-14026",
+    "parentUrl": "https://shop.billa.at/kategorie/reis-teigwaren-und-sugo-14022"
+  },
+  {
+    "label": "Reis, Teigwaren & Sugo",
+    "url": "https://shop.billa.at/kategorie/reis-teigwaren-und-sugo-14022",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Dressings",
+    "url": "https://shop.billa.at/kategorie/dressings-14028",
+    "parentUrl": "https://shop.billa.at/kategorie/saucen-und-dressings-14027"
+  },
+  {
+    "label": "Ketchup & Mayonnaise",
+    "url": "https://shop.billa.at/kategorie/ketchup-und-mayonnaise-14029",
+    "parentUrl": "https://shop.billa.at/kategorie/saucen-und-dressings-14027"
+  },
+  {
+    "label": "Saucen & Säfte",
+    "url": "https://shop.billa.at/kategorie/saucen-und-saefte-14030",
+    "parentUrl": "https://shop.billa.at/kategorie/saucen-und-dressings-14027"
+  },
+  {
+    "label": "Senf & Kren",
+    "url": "https://shop.billa.at/kategorie/senf-und-kren-14031",
+    "parentUrl": "https://shop.billa.at/kategorie/saucen-und-dressings-14027"
+  },
+  {
+    "label": "Saucen & Dressings",
+    "url": "https://shop.billa.at/kategorie/saucen-und-dressings-14027",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Glutenfrei",
+    "url": "https://shop.billa.at/kategorie/glutenfrei-14034",
+    "parentUrl": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032"
+  },
+  {
+    "label": "Laktosefrei",
+    "url": "https://shop.billa.at/kategorie/laktosefrei-14035",
+    "parentUrl": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032"
+  },
+  {
+    "label": "Reiswaffeln & Vollwert",
+    "url": "https://shop.billa.at/kategorie/reiswaffeln-und-vollwert-14036",
+    "parentUrl": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032"
+  },
+  {
+    "label": "Vegan",
+    "url": "https://shop.billa.at/kategorie/vegan-14037",
+    "parentUrl": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032"
+  },
+  {
+    "label": "Weight Watchers Produkte",
+    "url": "https://shop.billa.at/kategorie/weight-watchers-produkte-14038",
+    "parentUrl": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032"
+  },
+  {
+    "label": "Nahrungsergänzung",
+    "url": "https://shop.billa.at/kategorie/nahrungsergaenzung-14039",
+    "parentUrl": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032"
+  },
+  {
+    "label": "Spezielle Ernährung",
+    "url": "https://shop.billa.at/kategorie/spezielle-ernaehrung-14032",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Zucker",
+    "url": "https://shop.billa.at/kategorie/zucker-14041",
+    "parentUrl": "https://shop.billa.at/kategorie/zucker-und-suessstoffe-14040"
+  },
+  {
+    "label": "Süßstoffe",
+    "url": "https://shop.billa.at/kategorie/suessstoffe-14042",
+    "parentUrl": "https://shop.billa.at/kategorie/zucker-und-suessstoffe-14040"
+  },
+  {
+    "label": "Gelierhilfe & -Zucker",
+    "url": "https://shop.billa.at/kategorie/gelierhilfe-und-zucker-14043",
+    "parentUrl": "https://shop.billa.at/kategorie/zucker-und-suessstoffe-14040"
+  },
+  {
+    "label": "Zucker & Süßstoffe",
+    "url": "https://shop.billa.at/kategorie/zucker-und-suessstoffe-14040",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Basisfixprodukte",
+    "url": "https://shop.billa.at/kategorie/basisfixprodukte-14045",
+    "parentUrl": "https://shop.billa.at/kategorie/fixprodukte-14044"
+  },
+  {
+    "label": "Teige & Püree",
+    "url": "https://shop.billa.at/kategorie/teige-und-pueree-14046",
+    "parentUrl": "https://shop.billa.at/kategorie/fixprodukte-14044"
+  },
+  {
+    "label": "Basis für Süßes",
+    "url": "https://shop.billa.at/kategorie/basis-fuer-suesses-14047",
+    "parentUrl": "https://shop.billa.at/kategorie/fixprodukte-14044"
+  },
+  {
+    "label": "Fixprodukte",
+    "url": "https://shop.billa.at/kategorie/fixprodukte-14044",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Tofu, Soja & Vegane Produkte",
+    "url": "https://shop.billa.at/kategorie/tofu-soja-und-vegane-produkte-14049",
+    "parentUrl": "https://shop.billa.at/kategorie/vegane-ernaehrung-14048"
+  },
+  {
+    "label": "Getreide & Hülsenfrüchte",
+    "url": "https://shop.billa.at/kategorie/getreide-und-huelsenfruechte-14050",
+    "parentUrl": "https://shop.billa.at/kategorie/vegane-ernaehrung-14048"
+  },
+  {
+    "label": "Soja, Hafer & Reisdrinks",
+    "url": "https://shop.billa.at/kategorie/soja-hafer-und-reisdrinks-14052",
+    "parentUrl": "https://shop.billa.at/kategorie/vegane-ernaehrung-14048"
+  },
+  {
+    "label": "Vegane Süßigkeiten",
+    "url": "https://shop.billa.at/kategorie/vegane-suessigkeiten-14056",
+    "parentUrl": "https://shop.billa.at/kategorie/vegane-ernaehrung-14048"
+  },
+  {
+    "label": "Vegane Ernährung",
+    "url": "https://shop.billa.at/kategorie/vegane-ernaehrung-14048",
+    "parentUrl": "https://shop.billa.at/kategorie/nahrungsmittel-13943"
+  },
+  {
+    "label": "Nahrungsmittel",
+    "url": "https://shop.billa.at/kategorie/nahrungsmittel-13943",
+    "parentUrl": null
+  },
+  {
+    "label": "Biskotten & Eiswaffeln",
+    "url": "https://shop.billa.at/kategorie/biskotten-und-eiswaffeln-14058",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-und-salziges-14057"
+  },
+  {
+    "label": "Für kluge Naschkatzen",
+    "url": "https://shop.billa.at/kategorie/fuer-kluge-naschkatzen-14059",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-und-salziges-14057"
+  },
+  {
+    "label": "Müsliriegel",
+    "url": "https://shop.billa.at/kategorie/muesliriegel-14060",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-und-salziges-14057"
+  },
+  {
+    "label": "Chips",
+    "url": "https://shop.billa.at/kategorie/chips-14062",
+    "parentUrl": "https://shop.billa.at/kategorie/chips-und-co-14061"
+  },
+  {
+    "label": "Knabbereien",
+    "url": "https://shop.billa.at/kategorie/knabbereien-14063",
+    "parentUrl": "https://shop.billa.at/kategorie/chips-und-co-14061"
+  },
+  {
+    "label": "Nüsse",
+    "url": "https://shop.billa.at/kategorie/nuesse-14064",
+    "parentUrl": "https://shop.billa.at/kategorie/chips-und-co-14061"
+  },
+  {
+    "label": "Nachos & Dips",
+    "url": "https://shop.billa.at/kategorie/nachos-und-dips-14065",
+    "parentUrl": "https://shop.billa.at/kategorie/chips-und-co-14061"
+  },
+  {
+    "label": "Snacks",
+    "url": "https://shop.billa.at/kategorie/snacks-14066",
+    "parentUrl": "https://shop.billa.at/kategorie/chips-und-co-14061"
+  },
+  {
+    "label": "Chips & Co.",
+    "url": "https://shop.billa.at/kategorie/chips-und-co-14061",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-und-salziges-14057"
+  },
+  {
+    "label": "Feingebäck & Kekse",
+    "url": "https://shop.billa.at/kategorie/feingebaeck-und-kekse-14068",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Schokoriegel",
+    "url": "https://shop.billa.at/kategorie/schokoriegel-14069",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Schokoladentafeln",
+    "url": "https://shop.billa.at/kategorie/schokoladentafeln-14070",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Schnitten & Waffeln",
+    "url": "https://shop.billa.at/kategorie/schnitten-und-waffeln-14071",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Kaugummi",
+    "url": "https://shop.billa.at/kategorie/kaugummi-14072",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Fruchtgummi",
+    "url": "https://shop.billa.at/kategorie/fruchtgummi-14073",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Zuckerl & Bonbons",
+    "url": "https://shop.billa.at/kategorie/zuckerl-und-bonbons-14074",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Süße Spezialitäten",
+    "url": "https://shop.billa.at/kategorie/suesse-spezialitaeten-14075",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Bonbonniere & Spezialitäten",
+    "url": "https://shop.billa.at/kategorie/bonbonniere-und-spezialitaeten-14076",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Eiswaffeln & Biskotten",
+    "url": "https://shop.billa.at/kategorie/eiswaffeln-und-biskotten-14077",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Lebkuchen",
+    "url": "https://shop.billa.at/kategorie/lebkuchen-14078",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Weihnachten",
+    "url": "https://shop.billa.at/kategorie/weihnachten-14081",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-14067"
+  },
+  {
+    "label": "Süßes",
+    "url": "https://shop.billa.at/kategorie/suesses-14067",
+    "parentUrl": "https://shop.billa.at/kategorie/suesses-und-salziges-14057"
+  },
+  {
+    "label": "Süßes & Salziges",
+    "url": "https://shop.billa.at/kategorie/suesses-und-salziges-14057",
+    "parentUrl": null
+  },
+  {
+    "label": "Babypflege",
+    "url": "https://shop.billa.at/kategorie/babypflege-14085",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-14084"
+  },
+  {
+    "label": "Feuchttücher",
+    "url": "https://shop.billa.at/kategorie/feuchttuecher-14086",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-14084"
+  },
+  {
+    "label": "Windeln",
+    "url": "https://shop.billa.at/kategorie/windeln-14087",
+    "parentUrl": "https://shop.billa.at/kategorie/baby-14084"
+  },
+  {
+    "label": "Baby",
+    "url": "https://shop.billa.at/kategorie/baby-14084",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Slipeinlagen",
+    "url": "https://shop.billa.at/kategorie/slipeinlagen-14090",
+    "parentUrl": "https://shop.billa.at/kategorie/damenhygiene-14089"
+  },
+  {
+    "label": "Binden",
+    "url": "https://shop.billa.at/kategorie/binden-14091",
+    "parentUrl": "https://shop.billa.at/kategorie/damenhygiene-14089"
+  },
+  {
+    "label": "Tampons",
+    "url": "https://shop.billa.at/kategorie/tampons-14092",
+    "parentUrl": "https://shop.billa.at/kategorie/damenhygiene-14089"
+  },
+  {
+    "label": "Div. Damenhygiene",
+    "url": "https://shop.billa.at/kategorie/div-damenhygiene-14093",
+    "parentUrl": "https://shop.billa.at/kategorie/damenhygiene-14089"
+  },
+  {
+    "label": "Damenhygiene",
+    "url": "https://shop.billa.at/kategorie/damenhygiene-14089",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Deodorants",
+    "url": "https://shop.billa.at/kategorie/deodorants-14094",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Shampoo & Balsam",
+    "url": "https://shop.billa.at/kategorie/shampoo-und-balsam-14096",
+    "parentUrl": "https://shop.billa.at/kategorie/haarpflege-und-haarfarben-14095"
+  },
+  {
+    "label": "Haarspray & Gel",
+    "url": "https://shop.billa.at/kategorie/haarspray-und-gel-14097",
+    "parentUrl": "https://shop.billa.at/kategorie/haarpflege-und-haarfarben-14095"
+  },
+  {
+    "label": "Haarfarben",
+    "url": "https://shop.billa.at/kategorie/haarfarben-14098",
+    "parentUrl": "https://shop.billa.at/kategorie/haarpflege-und-haarfarben-14095"
+  },
+  {
+    "label": "Haarpflege & Haarfarben",
+    "url": "https://shop.billa.at/kategorie/haarpflege-und-haarfarben-14095",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Pflaster & Verbandsmaterial",
+    "url": "https://shop.billa.at/kategorie/pflaster-und-verbandsmaterial-14099",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Lippenpflege",
+    "url": "https://shop.billa.at/kategorie/lippenpflege-14101",
+    "parentUrl": "https://shop.billa.at/kategorie/haut-und-lippenpflege-14100"
+  },
+  {
+    "label": "Gesichtspflege",
+    "url": "https://shop.billa.at/kategorie/gesichtspflege-14102",
+    "parentUrl": "https://shop.billa.at/kategorie/haut-und-lippenpflege-14100"
+  },
+  {
+    "label": "Hand- & Gesichtscremen",
+    "url": "https://shop.billa.at/kategorie/hand-und-gesichtscremen-14103",
+    "parentUrl": "https://shop.billa.at/kategorie/haut-und-lippenpflege-14100"
+  },
+  {
+    "label": "Bodylotion",
+    "url": "https://shop.billa.at/kategorie/bodylotion-14104",
+    "parentUrl": "https://shop.billa.at/kategorie/haut-und-lippenpflege-14100"
+  },
+  {
+    "label": "Haut- & Lippenpflege",
+    "url": "https://shop.billa.at/kategorie/haut-und-lippenpflege-14100",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Zahnbürsten & Aufsätze",
+    "url": "https://shop.billa.at/kategorie/zahnbuersten-und-aufsaetze-14106",
+    "parentUrl": "https://shop.billa.at/kategorie/mund-und-zahnhygiene-14105"
+  },
+  {
+    "label": "Zahnpasten",
+    "url": "https://shop.billa.at/kategorie/zahnpasten-14107",
+    "parentUrl": "https://shop.billa.at/kategorie/mund-und-zahnhygiene-14105"
+  },
+  {
+    "label": "Mundwasser & Kukident",
+    "url": "https://shop.billa.at/kategorie/mundwasser-und-kukident-14108",
+    "parentUrl": "https://shop.billa.at/kategorie/mund-und-zahnhygiene-14105"
+  },
+  {
+    "label": "Zahnseide",
+    "url": "https://shop.billa.at/kategorie/zahnseide-14109",
+    "parentUrl": "https://shop.billa.at/kategorie/mund-und-zahnhygiene-14105"
+  },
+  {
+    "label": "Mund- & Zahnhygiene",
+    "url": "https://shop.billa.at/kategorie/mund-und-zahnhygiene-14105",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Rasierer & Klingen",
+    "url": "https://shop.billa.at/kategorie/rasierer-und-klingen-14111",
+    "parentUrl": "https://shop.billa.at/kategorie/rasierbedarf-14110"
+  },
+  {
+    "label": "Enthaarungsmittel",
+    "url": "https://shop.billa.at/kategorie/enthaarungsmittel-14112",
+    "parentUrl": "https://shop.billa.at/kategorie/rasierbedarf-14110"
+  },
+  {
+    "label": "Rasierschaum & -Gel",
+    "url": "https://shop.billa.at/kategorie/rasierschaum-und-gel-14113",
+    "parentUrl": "https://shop.billa.at/kategorie/rasierbedarf-14110"
+  },
+  {
+    "label": "After Shave",
+    "url": "https://shop.billa.at/kategorie/after-shave-14114",
+    "parentUrl": "https://shop.billa.at/kategorie/rasierbedarf-14110"
+  },
+  {
+    "label": "Rasierbedarf",
+    "url": "https://shop.billa.at/kategorie/rasierbedarf-14110",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Duschgel",
+    "url": "https://shop.billa.at/kategorie/duschgel-14116",
+    "parentUrl": "https://shop.billa.at/kategorie/seife-und-duschbaeder-14115"
+  },
+  {
+    "label": "Duschbäder & Badezusätze",
+    "url": "https://shop.billa.at/kategorie/duschbaeder-und-badezusaetze-14117",
+    "parentUrl": "https://shop.billa.at/kategorie/seife-und-duschbaeder-14115"
+  },
+  {
+    "label": "Seifen",
+    "url": "https://shop.billa.at/kategorie/seifen-14118",
+    "parentUrl": "https://shop.billa.at/kategorie/seife-und-duschbaeder-14115"
+  },
+  {
+    "label": "Seife & Duschbäder",
+    "url": "https://shop.billa.at/kategorie/seife-und-duschbaeder-14115",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Sonnenschutzmittel",
+    "url": "https://shop.billa.at/kategorie/sonnenschutzmittel-14120",
+    "parentUrl": "https://shop.billa.at/kategorie/sonnen-und-gelsenschutzmittel-14119"
+  },
+  {
+    "label": "Apres Lotion & Selbstbräuner",
+    "url": "https://shop.billa.at/kategorie/apres-lotion-und-selbstbraeuner-14121",
+    "parentUrl": "https://shop.billa.at/kategorie/sonnen-und-gelsenschutzmittel-14119"
+  },
+  {
+    "label": "Gelsenschutzmittel",
+    "url": "https://shop.billa.at/kategorie/gelsenschutzmittel-14122",
+    "parentUrl": "https://shop.billa.at/kategorie/sonnen-und-gelsenschutzmittel-14119"
+  },
+  {
+    "label": "Sonnen- & Gelsenschutzmittel",
+    "url": "https://shop.billa.at/kategorie/sonnen-und-gelsenschutzmittel-14119",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Verhütungsmittel",
+    "url": "https://shop.billa.at/kategorie/verhuetungsmittel-14123",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Fußpflege",
+    "url": "https://shop.billa.at/kategorie/fusspflege-14124",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Strumpfhosen & Socken",
+    "url": "https://shop.billa.at/kategorie/strumpfhosen-und-socken-14125",
+    "parentUrl": "https://shop.billa.at/kategorie/pflege-14083"
+  },
+  {
+    "label": "Pflege",
+    "url": "https://shop.billa.at/kategorie/pflege-14083",
+    "parentUrl": null
+  },
+  {
+    "label": "Div. Büro - & Schulartikel",
+    "url": "https://shop.billa.at/kategorie/div-buero-und-schulartikel-14128",
+    "parentUrl": "https://shop.billa.at/kategorie/buero-und-schulartikel-14127"
+  },
+  {
+    "label": "Büro- & Schulartikel",
+    "url": "https://shop.billa.at/kategorie/buero-und-schulartikel-14127",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Pflanzenpflege",
+    "url": "https://shop.billa.at/kategorie/pflanzenpflege-14133",
+    "parentUrl": "https://shop.billa.at/kategorie/garten-14131"
+  },
+  {
+    "label": "Blumenerde",
+    "url": "https://shop.billa.at/kategorie/blumenerde-14136",
+    "parentUrl": "https://shop.billa.at/kategorie/garten-14131"
+  },
+  {
+    "label": "Garten",
+    "url": "https://shop.billa.at/kategorie/garten-14131",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Klebstoffe",
+    "url": "https://shop.billa.at/kategorie/klebstoffe-14138",
+    "parentUrl": "https://shop.billa.at/kategorie/kleben-und-befestigen-14137"
+  },
+  {
+    "label": "Tesafilm & Klebebänder",
+    "url": "https://shop.billa.at/kategorie/tesafilm-und-klebebaender-14139",
+    "parentUrl": "https://shop.billa.at/kategorie/kleben-und-befestigen-14137"
+  },
+  {
+    "label": "Kleben & Befestigen",
+    "url": "https://shop.billa.at/kategorie/kleben-und-befestigen-14137",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Backformen",
+    "url": "https://shop.billa.at/kategorie/backformen-14141",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenartikel-14140"
+  },
+  {
+    "label": "Gläser & Besteck",
+    "url": "https://shop.billa.at/kategorie/glaeser-und-besteck-14142",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenartikel-14140"
+  },
+  {
+    "label": "Küchenhilfen",
+    "url": "https://shop.billa.at/kategorie/kuechenhilfen-14143",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenartikel-14140"
+  },
+  {
+    "label": "Kunststoffbehälter",
+    "url": "https://shop.billa.at/kategorie/kunststoffbehaelter-14147",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenartikel-14140"
+  },
+  {
+    "label": "Partyartikel",
+    "url": "https://shop.billa.at/kategorie/partyartikel-14149",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenartikel-14140"
+  },
+  {
+    "label": "Küchenartikel",
+    "url": "https://shop.billa.at/kategorie/kuechenartikel-14140",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "WC-Papier",
+    "url": "https://shop.billa.at/kategorie/wcpapier-14151",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenrollen-und-wcpapier-14150"
+  },
+  {
+    "label": "feuchtes WC-Papier",
+    "url": "https://shop.billa.at/kategorie/feuchtes-wcpapier-14152",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenrollen-und-wcpapier-14150"
+  },
+  {
+    "label": "Küchenrollen",
+    "url": "https://shop.billa.at/kategorie/kuechenrollen-14153",
+    "parentUrl": "https://shop.billa.at/kategorie/kuechenrollen-und-wcpapier-14150"
+  },
+  {
+    "label": "Küchenrollen & WC-Papier",
+    "url": "https://shop.billa.at/kategorie/kuechenrollen-und-wcpapier-14150",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Lampen",
+    "url": "https://shop.billa.at/kategorie/lampen-14155",
+    "parentUrl": "https://shop.billa.at/kategorie/lampen-und-batterien-14154"
+  },
+  {
+    "label": "Batterien",
+    "url": "https://shop.billa.at/kategorie/batterien-14156",
+    "parentUrl": "https://shop.billa.at/kategorie/lampen-und-batterien-14154"
+  },
+  {
+    "label": "Lampen & Batterien",
+    "url": "https://shop.billa.at/kategorie/lampen-und-batterien-14154",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Müllsäcke, Gefrierbeutel & Co.",
+    "url": "https://shop.billa.at/kategorie/muellsaecke-gefrierbeutel-und-co-14157",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Raumsprays & Lufterfrischer",
+    "url": "https://shop.billa.at/kategorie/raumsprays-und-lufterfrischer-14159",
+    "parentUrl": "https://shop.billa.at/kategorie/raumsprays-und-kerzen-14158"
+  },
+  {
+    "label": "Duftkerzen & Kerzen",
+    "url": "https://shop.billa.at/kategorie/duftkerzen-und-kerzen-14160",
+    "parentUrl": "https://shop.billa.at/kategorie/raumsprays-und-kerzen-14158"
+  },
+  {
+    "label": "Grablichter",
+    "url": "https://shop.billa.at/kategorie/grablichter-14161",
+    "parentUrl": "https://shop.billa.at/kategorie/raumsprays-und-kerzen-14158"
+  },
+  {
+    "label": "Raumsprays & Kerzen",
+    "url": "https://shop.billa.at/kategorie/raumsprays-und-kerzen-14158",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Geschirrspülmittel",
+    "url": "https://shop.billa.at/kategorie/geschirrspuelmittel-14163",
+    "parentUrl": "https://shop.billa.at/kategorie/reinigen-und-pflegen-14162"
+  },
+  {
+    "label": "Diverse Haushaltsreiniger",
+    "url": "https://shop.billa.at/kategorie/diverse-haushaltsreiniger-14164",
+    "parentUrl": "https://shop.billa.at/kategorie/reinigen-und-pflegen-14162"
+  },
+  {
+    "label": "WC- & Badreiniger",
+    "url": "https://shop.billa.at/kategorie/wc-und-badreiniger-14165",
+    "parentUrl": "https://shop.billa.at/kategorie/reinigen-und-pflegen-14162"
+  },
+  {
+    "label": "Reinigungsgeräte & Tücher",
+    "url": "https://shop.billa.at/kategorie/reinigungsgeraete-und-tuecher-14166",
+    "parentUrl": "https://shop.billa.at/kategorie/reinigen-und-pflegen-14162"
+  },
+  {
+    "label": "Reinigen & Pflegen",
+    "url": "https://shop.billa.at/kategorie/reinigen-und-pflegen-14162",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Taschentücher",
+    "url": "https://shop.billa.at/kategorie/taschentuecher-14168",
+    "parentUrl": "https://shop.billa.at/kategorie/taschentuecher-und-servietten-14167"
+  },
+  {
+    "label": "Servietten",
+    "url": "https://shop.billa.at/kategorie/servietten-14169",
+    "parentUrl": "https://shop.billa.at/kategorie/taschentuecher-und-servietten-14167"
+  },
+  {
+    "label": "Taschentücher & Servietten",
+    "url": "https://shop.billa.at/kategorie/taschentuecher-und-servietten-14167",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Waschmittel",
+    "url": "https://shop.billa.at/kategorie/waschmittel-14171",
+    "parentUrl": "https://shop.billa.at/kategorie/waschmittel-und-weichspueler-14170"
+  },
+  {
+    "label": "Weichspüler",
+    "url": "https://shop.billa.at/kategorie/weichspueler-14172",
+    "parentUrl": "https://shop.billa.at/kategorie/waschmittel-und-weichspueler-14170"
+  },
+  {
+    "label": "Flecken- & Vorwaschmittel",
+    "url": "https://shop.billa.at/kategorie/flecken-und-vorwaschmittel-14173",
+    "parentUrl": "https://shop.billa.at/kategorie/waschmittel-und-weichspueler-14170"
+  },
+  {
+    "label": "Pflege",
+    "url": "https://shop.billa.at/kategorie/pflege-14174",
+    "parentUrl": "https://shop.billa.at/kategorie/waschmittel-und-weichspueler-14170"
+  },
+  {
+    "label": "Waschmittel & Weichspüler",
+    "url": "https://shop.billa.at/kategorie/waschmittel-und-weichspueler-14170",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Schuhpflege",
+    "url": "https://shop.billa.at/kategorie/schuhpflege-14175",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Vorratsdosen",
+    "url": "https://shop.billa.at/kategorie/vorratsdosen-14178",
+    "parentUrl": "https://shop.billa.at/kategorie/kunststoffbehaelter-14176"
+  },
+  {
+    "label": "Kunststoffbehälter",
+    "url": "https://shop.billa.at/kategorie/kunststoffbehaelter-14176",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Insektenschutz",
+    "url": "https://shop.billa.at/kategorie/insektenschutz-14180",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Spielwaren",
+    "url": "https://shop.billa.at/kategorie/spielwaren-14534",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Filter & Entkalker",
+    "url": "https://shop.billa.at/kategorie/filter-und-entkalker-14535",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Hygiene Schutzartikel",
+    "url": "https://shop.billa.at/kategorie/hygiene-schutzartikel-14536",
+    "parentUrl": "https://shop.billa.at/kategorie/haushalt-14126"
+  },
+  {
+    "label": "Haushalt",
+    "url": "https://shop.billa.at/kategorie/haushalt-14126",
+    "parentUrl": null
+  },
+  {
+    "label": "Hunde Nassfutter",
+    "url": "https://shop.billa.at/kategorie/hunde-nassfutter-14183",
+    "parentUrl": "https://shop.billa.at/kategorie/hunde-14182"
+  },
+  {
+    "label": "Hunde Trockenfutter",
+    "url": "https://shop.billa.at/kategorie/hunde-trockenfutter-14184",
+    "parentUrl": "https://shop.billa.at/kategorie/hunde-14182"
+  },
+  {
+    "label": "Hunde Snacks",
+    "url": "https://shop.billa.at/kategorie/hunde-snacks-14185",
+    "parentUrl": "https://shop.billa.at/kategorie/hunde-14182"
+  },
+  {
+    "label": "Hunde",
+    "url": "https://shop.billa.at/kategorie/hunde-14182",
+    "parentUrl": "https://shop.billa.at/kategorie/haustier-14181"
+  },
+  {
+    "label": "Katzen Nassfutter",
+    "url": "https://shop.billa.at/kategorie/katzen-nassfutter-14187",
+    "parentUrl": "https://shop.billa.at/kategorie/katzen-14186"
+  },
+  {
+    "label": "Katzen Trockenfutter",
+    "url": "https://shop.billa.at/kategorie/katzen-trockenfutter-14188",
+    "parentUrl": "https://shop.billa.at/kategorie/katzen-14186"
+  },
+  {
+    "label": "Katzen Snacks",
+    "url": "https://shop.billa.at/kategorie/katzen-snacks-14189",
+    "parentUrl": "https://shop.billa.at/kategorie/katzen-14186"
+  },
+  {
+    "label": "Katzenstreu",
+    "url": "https://shop.billa.at/kategorie/katzenstreu-14190",
+    "parentUrl": "https://shop.billa.at/kategorie/katzen-14186"
+  },
+  {
+    "label": "Katzen",
+    "url": "https://shop.billa.at/kategorie/katzen-14186",
+    "parentUrl": "https://shop.billa.at/kategorie/haustier-14181"
+  },
+  {
+    "label": "Kleintiere",
+    "url": "https://shop.billa.at/kategorie/kleintiere-14191",
+    "parentUrl": "https://shop.billa.at/kategorie/haustier-14181"
+  },
+  {
+    "label": "Vögel",
+    "url": "https://shop.billa.at/kategorie/voegel-14192",
+    "parentUrl": "https://shop.billa.at/kategorie/haustier-14181"
+  },
+  {
+    "label": "Haustier",
+    "url": "https://shop.billa.at/kategorie/haustier-14181",
+    "parentUrl": null
+  },
+  {
+    "label": "Sekt & Champagner",
+    "url": "https://shop.billa.at/kategorie/sekt-und-champagner-14268",
+    "parentUrl": "https://shop.billa.at/kategorie/geschenksideen-14267"
+  },
+  {
+    "label": "Bonbonniere",
+    "url": "https://shop.billa.at/kategorie/bonbonniere-14269",
+    "parentUrl": "https://shop.billa.at/kategorie/geschenksideen-14267"
+  },
+  {
+    "label": "Spirituosen",
+    "url": "https://shop.billa.at/kategorie/spirituosen-14537",
+    "parentUrl": "https://shop.billa.at/kategorie/geschenksideen-14267"
+  },
+  {
+    "label": "Sonstiges",
+    "url": "https://shop.billa.at/kategorie/sonstiges-14538",
+    "parentUrl": "https://shop.billa.at/kategorie/geschenksideen-14267"
+  },
+  {
+    "label": "Geschenksideen",
+    "url": "https://shop.billa.at/kategorie/geschenksideen-14267",
+    "parentUrl": null
+  }
+]
