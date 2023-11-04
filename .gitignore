@@ -23,5 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-public/heissepreise-mini.csv
-scripts/.cache
+public/data
