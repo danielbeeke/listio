@@ -1,0 +1,51 @@
+.search-product {
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  justify-content: start;
+  container-type: inline-size;
+  border: 1px solid gray;
+
+  .image {
+    padding: 10px;
+    width: 60px;
+    height: 60px;
+  }
+
+  .highlight {
+    font-weight: bold;
+  }
+
+  .store {
+    padding-right: 0.5rem;
+  }
+
+  .price-wrapper {
+    margin-left: auto;
+    display: flex;
+    padding-right: 1rem;
+    white-space: nowrap;
+    flex-direction: column;
+    line-height: 1;
+    text-align: right;
+  }
+
+  .quantity {
+    font-size: 0.9rem;
+  }
+
+  .price {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  @container (max-width: 700px) {
+    br {
+      display: none;
+    }
+  }
+}
+
+.search-product + .search-product {
+  margin-top: -1px;
+}

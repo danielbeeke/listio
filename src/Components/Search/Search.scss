@@ -12,6 +12,7 @@
 
   .selected-category {
     padding: 1rem;
+    font-weight: bold;
     border-right: 1px solid gray;
     background-color: #e7f8ff;
 
@@ -29,7 +30,8 @@
     padding-inline-end: 2rem;
   }
 
-  .results {
+  .results,
+  .products {
     margin-top: -1px;
   }
 
@@ -44,5 +46,15 @@
 
   .search-result {
     cursor: pointer;
+  }
+
+  .accept {
+    margin-top: -1px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    border: 1px solid gray;
+    background-color: #e7f8ff;
   }
 }

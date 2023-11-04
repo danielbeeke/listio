@@ -5,6 +5,8 @@ import {
 } from '../SearchResult/SearchResult.stories'
 import { Search, SearchProps } from './Search'
 
+import { milkItems } from '../SearchProduct/SearchProduct.stories'
+
 export default {
   title: 'Components/Search',
   component: Search,
@@ -14,10 +16,25 @@ export default {
 }
 
 export const Default = {
+  args: {} as SearchProps,
+}
+
+export const MilchSearch = {
   args: {
     defaultSearchTerm: 'Milch',
-    defaulSearchResults: [Milch, BabyMilch, MilchChocolate].map(
+    defaultSearchResults: [Milch, BabyMilch, MilchChocolate].map(
       (item) => item.args
     ),
+  } as SearchProps,
+}
+
+export const MilchCategorySelected = {
+  args: {
+    defaultSearchTerm: 'haltbar',
+    defaultSelectedCategory: {
+      text: 'Milch',
+      identifier: 'milch',
+    },
+    defaultSearchProducts: milkItems,
   } as SearchProps,
 }

@@ -1,6 +1,10 @@
 import { Icon } from '@iconify/react/dist/iconify.js'
 import { useRef, useState } from 'react'
 import {
+  SearchProduct,
+  SearchProductProps,
+} from '../SearchProduct/SearchProduct'
+import {
   SearchResult,
   SearchResultPart,
   SearchResultProps,
@@ -9,17 +13,23 @@ import './Search.scss'
 
 export type SearchProps = {
   defaultSearchTerm?: string
-  defaulSearchResults?: SearchResultProps[]
+  defaultSearchResults?: SearchResultProps[]
+  defaultSelectedCategory?: SearchResultPart
+  defaultSearchProducts?: SearchProductProps[]
 }
 
 export function Search({
   defaultSearchTerm = '',
-  defaulSearchResults = [],
+  defaultSearchResults = [],
+  defaultSearchProducts = [],
+  defaultSelectedCategory,
 }: SearchProps) {
-  const [selectedCategory, setSelectedCategory] =
-    useState<SearchResultPart | null>(null)
-  const [searchResults, setSearchResults] = useState(defaulSearchResults)
+  const [selectedCategory, setSelectedCategory] = useState<
+    SearchResultPart | undefined
+  >(defaultSelectedCategory)
+  const [searchResults, setSearchResults] = useState(defaultSearchResults)
   const [searchTerm, setSearchTerm] = useState(defaultSearchTerm)
+  const [searchProducts, setSearchProducts] = useState(defaultSearchProducts)
 
   const inputRef = useRef<HTMLInputElement>(null)
 
@@ -31,8 +41,9 @@ export function Search({
             {selectedCategory.text}:
             <Icon
               onClick={() => {
-                setSelectedCategory(null)
+                setSelectedCategory(undefined)
                 setSearchTerm('')
+                setSearchProducts([])
                 inputRef.current?.focus()
               }}
               icon="basil:cross-solid"
@@ -63,6 +74,26 @@ export function Search({
               searchTerm={searchTerm}
             />
           ))}
+        </div>
+      ) : null}
+
+      {searchProducts.length ? (
+        <div className="products">
+          {searchProducts.map((searchProduct) => (
+            <SearchProduct
+              key={JSON.stringify(searchProduct)}
+              {...searchProduct}
+            />
+          ))}
+          <div className="accept">
+            <span>
+              Do the results look okay?
+              <br />
+              Refine the list by adding more search words or:
+            </span>
+            &nbsp;
+            <button className="button">Accept the search results</button>
+          </div>
         </div>
       ) : null}
     </div>

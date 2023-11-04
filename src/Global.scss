@@ -1,3 +1,13 @@
 * {
   box-sizing: border-box;
 }
+
+.button {
+  white-space: nowrap;
+  appearance: none;
+  border: none;
+  padding: 0.5rem 0.7rem;
+  border-radius: 0.3rem;
+  background-color: rgb(49, 87, 192);
+  color: white;
+}
